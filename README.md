@@ -7,7 +7,7 @@ This project consists of two parts:
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
 
 - [x] Create your own version of this repo - Fork
-- [ ] Add your TL as a collaborator
+- [x] Add your TL as a collaborator
 - [ ] Clone this repo
 - [ ] Create a branch `git checkout -b 'firstName-lastName'`
   - [ ] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
